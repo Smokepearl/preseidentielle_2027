@@ -1,0 +1,19 @@
+# Données brutes (volumineuses, non utilisées par l'app)
+data_brut/
+
+# Documents de cours / supports lourds (non nécessaires au déploiement)
+UF_IA&DATA_B3.pdf
+Suivi du projet fil rouge _ Choix des Sujets.pdf
+Suivi du projet fil rouge _ Objectifs et Modalités de Validation.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
