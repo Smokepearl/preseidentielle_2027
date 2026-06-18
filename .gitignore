@@ -1,6 +1,10 @@
 # Données brutes (volumineuses, non utilisées par l'app)
 data_brut/
 
+# Données nettoyées (exclues du dépôt à la demande)
+# ATTENTION : l'app Streamlit en a besoin pour fonctionner en ligne
+data_clean/
+
 # Documents de cours / supports lourds (non nécessaires au déploiement)
 UF_IA&DATA_B3.pdf
 Suivi du projet fil rouge _ Choix des Sujets.pdf
